@@ -5,9 +5,7 @@
 layout: default
 ---
 
-<https://github.com/bismite/bismite-sdk>
-
-bismite SDK is a multi-platform development environment for controlling 2D graphics and sound.
+[bismite](https://github.com/bismite/bismite-mruby) SDK is a multi-platform development environment for controlling 2D graphics and sound.
 
 It runs on macOS, Linux, Windows, and web browsers.
 WebGL and WebAssembly are required to run in a web browser.
